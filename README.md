@@ -8,7 +8,7 @@ Lots of tools are complex and versatile. While it is conceptually interesting to
 ### Contents
 This repo contains guides for:
 - Using [Wireshark to run a speedtest](https://github.com/OS2G/lightning-workshops/blob/main/wireshark-speedtest.md) of your internet
-- Doing a basic scan of a network using nmap
+- Doing a basic [network scan using nmap](https://github.com/OS2G/lightning-workshops/blob/main/nmap-basic-scan.md)
 
 #### New Guides are welcome via Pull Request, as are issues to suggest things of interest!
 
